@@ -1,19 +1,18 @@
 # _Calculator_
 
-#### By _**{List of contributors}**_
+#### By _**Patrick Dolan, Ryan Rendon & Anastasia Han**_
 
-#### _{Brief description of application}_
+#### _Its does math_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _Javascript_
+
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_A calculator built with Javascript and soon will have jQuery._
 
 ## Setup/Installation Requirements
 
@@ -34,4 +33,4 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _2021_ _Patrick Dolan, Ryan Rendon & Anastasia Han_
